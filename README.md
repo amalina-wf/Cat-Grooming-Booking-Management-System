@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Getting Started (Maven)
 
 A barebones Java app, which can easily be deployed to Heroku.
@@ -45,3 +46,6 @@ $ heroku open
 For more information about using Java on Heroku, see these Dev Center articles:
 
 - [Java on Heroku](https://devcenter.heroku.com/categories/java)
+=======
+# Cat-Grooming-Booking-Management-System
+>>>>>>> 760a2351473977e61419ad1103d340259ef33f54
